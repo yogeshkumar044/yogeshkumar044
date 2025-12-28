@@ -1,53 +1,18 @@
-# 💻 Yogesh Kumar - Developer & Engineer  
+# 💫 About Me:
+Hi, I’m Yogesh Kumar — a B.Tech Chemical Engineering undergraduate at IIT Jodhpur (2022–2026) with a strong interest in software development and full-stack web technologies.<br><br>I enjoy building scalable, real-world web applications, especially using React, Next.js, Vue/Nuxt, Node.js, and MongoDB. I’ve worked across the stack—from designing responsive, user-friendly frontends to implementing secure, efficient backend APIs.<br><br>Recently, I worked as a Frontend Software Engineer Intern at KlimaShift, a Netherlands-based energy tech startup, where I built production-grade dashboards using Nuxt 3 and Vue 3, integrated REST APIs, and improved performance through reusable component design.<br><br>I’ve built several full-stack projects, including:<br><br>A video streaming platform with authentication, subscriptions, and media handling<br><br>An anonymous messaging platform with secure auth, email verification, and AI-assisted moderation<br><br>A real-time ride-sharing system with live location tracking and socket-based communication<br><br>I’m passionate about clean code, performance optimization, and learning new technologies, and I actively use GitHub to collaborate and improve through real-world projects.<br><br>📌 Tech Interests: Full-Stack Development, Frontend Engineering, Scalable Systems<br>📌 Currently Exploring: Advanced React/Next.js patterns, system design, and backend scalability
 
-## 🏆 About Me  
-I am a passionate developer currently pursuing a **Bachelor of Technology in Chemical Engineering** at **IIT Jodhpur** (Expected Graduation: 2026). I have a strong interest in full-stack development, machine learning, and scalable web applications.  
 
-## 🚀 Technical Skills  
-- **Programming Languages**: JavaScript, Python, C, C++, HTML, CSS  
-- **Web Technologies**: React.js, Redux, Node.js, Express.js, MongoDB, Appwrite, Next.js  
-- **Frameworks & Libraries**: Tailwind CSS, Bootstrap  
-- **Developer Tools**: Git, GitHub, Postman, VS Code  
-- **Software Development Concepts**: RESTful APIs, Microservices, WebSockets, JWT, OAuth  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogesh_kumar044) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yogesh-kumar044) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshkumar.work044@gmail.com) 
 
-## 📚 Education  
-🎓 **Indian Institute of Technology, Jodhpur**  
-**B.Tech in Chemical Engineering** | CGPA: 6.68/10 | 2026  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yogeshkumar044&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yogeshkumar044&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkumar044&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎓 **Central Academy School, Ajmer**  
-Class 12 (Science - PCM) | 2022  
+---
+[![](https://visitcount.itsvg.in/api?id=yogeshkumar044&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💡 Projects  
-
-### 🎥 **Video Browsing Platform** ([Frontend](https://github.com/yogeshkumar044/VideoTube-vite--frontend.git) | [Backend](https://github.com/yogeshkumar044/Video_Tube-Backend.git))  
-- Developed a full-stack video-sharing platform with **React.js, Node.js, MongoDB, and Cloudinary** for seamless video uploads and optimized streaming.  
-- Integrated **JWT-based authentication** and **Redux state management**, reducing login failures by 30%.  
-- Optimized backend queries, **improving video load times by 20%**.  
-
-### 🚗 **Real-Time Ride-Sharing Platform** ([Frontend](https://github.com/yogeshkumar044/Ride-Sharing-frontend-vite.git) | [Backend](https://github.com/yogeshkumar044/Ride-Sharing-backend.git))  
-- Built a scalable ride-sharing system using **React.js, Node.js, Express.js, MongoDB**, and **OpenStreetMap** for real-time location tracking.  
-- Developed an optimized **driver-passenger matching system**, reducing ride allocation time by 40%.  
-- Integrated **Stripe payments**, increasing checkout success rates by 25%.  
-
-## 🎯 Achievements  
-🏆 **95.3 percentile in JEE Mains 2022** (Among 1 million candidates)  
-🏆 **AIR 17708 in JEE Advanced 2022** (Among 1 million candidates)  
-
-## 🎓 Relevant Courses  
-- Machine Learning  
-- Data Structures and Algorithms  
-- Probability, Statistics, and Stochastic Processes  
-- Introduction to C  
-- **Udemy Courses**: C++, Data Structures & Algorithms (DSA)  
-
-## 👨‍💻 Positions of Responsibility  
-
-### 🌐 **Web Development Head** | **Varchas '24, IIT Jodhpur’s Annual Sports Fest** (Aug 2024 – Oct 2024)  
-- Led a **team of 6 developers** to design and deploy a high-traffic website with **99.9% uptime**.  
-- Enhanced UI/UX, reducing bounce rates by 20%.  
-- Optimized website performance by 30% using code refactoring, image compression, and lazy loading.  
-
-## 📫 Contact  
-📧 Email: [yogeshkumar.work044@gmail.com](mailto:yogeshkumar.work044@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yogesh-kumar044](https://www.linkedin.com/in/yogesh-kumar044/)  
-🐙 GitHub: [github.com/yogeshkumar044](https://github.com/yogeshkumar044)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
